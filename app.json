@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "tech-store-app",
+    "slug": "tech-store-app",
+    "extra": {
+      "eas": {
+        "projectId": "00563d4a-1ebe-40f9-bbef-c8e0d9816b6d"
+      }
+    },
+    "android": {
+      "package": "com.xavis235.techstoreapp"
+    }
+  }
+}
